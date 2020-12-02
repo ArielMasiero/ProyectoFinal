@@ -427,7 +427,7 @@ public class Cliente_Datos_Vista extends JFrame {
 		getContentPane().add(separator_1);
 		
 		JSeparator separator_2 = new JSeparator();
-		separator_2.setBounds(500, 358, 449, 265);
+		separator_2.setBounds(493, 354, 449, 265);
 		getContentPane().add(separator_2);
 		
 		JLabel label_7 = new JLabel("-");

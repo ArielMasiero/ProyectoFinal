@@ -5,13 +5,13 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.Hashtable;
 
-import edu.usal.negocio.dao.implementacion.SQL.LineaAereaDAOImplSQL;
+import dao.implementation.LineaAereaImplementacion;
 import edu.usal.negocio.dao.implementacion.String.PaisesDAOImplFileString;
 import edu.usal.negocio.dao.implementacion.String.ProvinciasDAOImplFileString;
 import edu.usal.negocio.dao.interfaces.LineaAereaDAO;
 import edu.usal.negocio.dao.interfaces.PaisesDAO;
 import edu.usal.negocio.dao.interfaces.ProvinciasDAO;
-import edu.usal.negocio.dominio.LineaAerea;
+import dao.negocio.LineaAerea;
 
 public class DatosEstaticos {
 	
